@@ -1,0 +1,4 @@
+#DisableElytraOnHit created by sudologic
+
+#Time in seconds for the elytra to be disabled when a player hits another
+timer: 10

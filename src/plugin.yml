@@ -1,0 +1,6 @@
+main: me.sudologic.disableelytraonhit.Main
+name: DisableElytraOnHit
+description: This plugin will briefly disable the elytra when a player is hit by another!
+version: 1.0
+author: sudologic
+api-version: 1.18
